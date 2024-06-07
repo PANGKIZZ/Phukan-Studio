@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -9,6 +9,7 @@ header {
     color: #fff;
     padding: 1rem;
     text-align: center;
+    font-family: 'Poppins', sans-serif;
 }
 
 nav ul {
@@ -25,6 +26,9 @@ nav ul li {
 nav ul li a {
     color: #fff;
     text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 main {
@@ -55,4 +59,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    font-family: 'Arial Rounded MT Bold', sans-serif;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
 }
